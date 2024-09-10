@@ -2,11 +2,7 @@
 
 
 Part 1: Scrape Titles and Preview Text from Mars News
-	a. Automated browsing was used to visit the link to the Mars news site. Inspect the page to identify which elements to scrape.
-
-    b. Created a Beautiful Soup object to extract text elements from the website.
-
-    c. Stored each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following: Store all the 		dictionaries in a Python list. Print the list in your notebook.
+	a. Automated browsing was used to visit the link to the Mars news site. Inspect the page to identify which elements to scrape.b. Created a Beautiful Soup object 			to extract text elements from the website.c. Stored each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following: Store all the 	dictionaries in a Python list. Print the list in your notebook.
 
 Part 2: Scrape and Analyze Mars Weather Data
 
